@@ -17,3 +17,7 @@
 * In the VGG16 and resnet notebooks, it is also style transfer but made with different models
 
 * The style-matrix notebook allows to render a matrix of style-content combinations using style transfer - useful when you want to try a lot of different styles and content.
+
+
+
+[Online style transfer by DeepAI](https://deepai.org/machine-learning-model/fast-style-transfer)
