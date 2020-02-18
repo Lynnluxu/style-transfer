@@ -20,4 +20,3 @@
 
 
 
-[Online style transfer by DeepAI](https://deepai.org/machine-learning-model/fast-style-transfer)
